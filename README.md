@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced GIS techniques, Python programming, and spatial data visualization.
 - Additionally, I am participating in the Digital Shaper program offered by Techlabs, Hamburg, focusing on Data Science.
 - 💞️ I’m looking to collaborate on GIS projects, environmental data analysis, and open-source mapping initiatives.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sayed-hussain-mosavi-059a68256) or email at sayed.hussain.mosavi@example.com
+- 📫 How to reach me: www.linkedin.com/in/sayed-hussain-mosavi-059a68256 or email at sayedhussain.mosavi@stu.uni-kiel.de
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places, combining my passion for environment with my love for the outdoors.
 
